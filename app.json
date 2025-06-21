@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Glasnood",
+    "slug": "Glasnood",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F5D409"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nelrohland.Glasnood",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splash-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.nelrohland.Glasnood"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "115c0a9e-2d95-417d-b9fb-fef73b96b21f"
+      }
+    },
+    "owner": "nelrohland"
+  }
+}
