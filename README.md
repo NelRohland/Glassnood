@@ -15,6 +15,12 @@ Glass Nood is a sleek and lightweight Android invoice application built using **
 ## 📱 Screenshots
 
 > Add screenshots here when available (screenshots of invoice creation, list view, PDF preview, etc.)
+![Home](https://github.com/user-attachments/assets/7d36ee0c-2436-4b3c-924e-25cc16aaf73d)
+![Wi![Win Calc 2](https://github.com/user-attachments/assets/a35a3ab0-60df-44e0-91be-85512d940cd1)
+nCalc](https://github.com/user-attachments/assets/d4aa3821-cb9b-446d-8cb7-c898e3807a2b)
+![Win Calc 2](https://github.com/user-attachments/assets/e82b1e0a-e121-4035-9447-ef18d078cf65)
+![Invoice Gen](https://github.com/user-attachments/assets/053d642f-72ff-4a3c-affd-3c1d436d592e)
+![Invoice Gen 2](https://github.com/user-attachments/assets/45ffc873-771b-4f4d-82e5-765f7f160c5e)
 
 ---
 
